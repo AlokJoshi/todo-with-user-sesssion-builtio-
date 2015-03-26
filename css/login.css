@@ -1,0 +1,27 @@
+body
+{
+    font-family: 'Lobster', cursive;
+    font-size: 16px;
+    background: #1f1f1f;
+}
+h1
+{
+    font-size: 5em;
+    margin-top: 1%;
+    text-align: center;
+    letter-spacing: 20px;
+    color: #afdfe9;
+    text-shadow: 3px 3px 0 #2c2e38, 5px 5px 0 #5c5f72;
+    text-shadow: 0 1px 0 #999, 0 2px 0 #888, 0 3px 0 #777, 0 4px 0 #666, 0 5px 0 #555, 0 6px 0 #444, 0 7px 0 #333, 0 8px 7px #001135;
+}
+form{
+    margin-top: 5%;
+    color: white;
+}
+form input{
+    color: black;
+}
+
+label{
+	width: 100%;
+}
